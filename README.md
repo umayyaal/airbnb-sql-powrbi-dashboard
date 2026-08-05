@@ -16,9 +16,22 @@ Throughout the project, emphasis was placed on building a realistic analytics wo
 - ~78 million calendar records
 -  4 global cities
 - ~$2.73B estimated market revenue analyzed
+  
+## Table of Contents
 
---
-
+- Project Overview
+- Dashboard Preview
+- Project Story
+- Key Business Insights
+- Architecture
+- Tech Stack
+- Repository Structure
+- Notable Problems Solved
+- Data Limitations
+- How to Run
+- Future Improvements
+- About
+  
 ## 📊 Dashboard Preview
 
 > This report was built and tested in Power BI Desktop. I don't currently have a Power BI Pro license, so I'm unable to publish it live to the Power BI Service — the screenshots below show all three report pages, and the full interactive `.pbix` file is included in this repo (`powerbi\airbnb_dashboard.pbix`) and can be opened for free in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
