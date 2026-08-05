@@ -8,7 +8,7 @@ An end-to-end data analytics project built on real, unprocessed Airbnb listing d
 
 ## 📊 Dashboard Preview
 
-> This report was built and tested in Power BI Desktop. I don't currently have a Power BI Pro license, so I'm unable to publish it live to the Power BI Service — the screenshots below show all three report pages, and the full interactive `.pbix` file is included in this repo (`/powerbi/airbnb_dashboard.pbix`) and can be opened for free in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
+> This report was built and tested in Power BI Desktop. I don't currently have a Power BI Pro license, so I'm unable to publish it live to the Power BI Service — the screenshots below show all three report pages, and the full interactive `.pbix` file is included in this repo (`powerbi\airbnb_dashboard.pbix`) and can be opened for free in [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop).
 
 ### Page 1 — Market Overview
 ![Overview page](images\01_overview_page.JPG)
