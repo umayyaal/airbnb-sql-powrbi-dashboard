@@ -1,11 +1,3 @@
-# Global Airbnb Market Analytics — SQL + Power BI
-
-An end-to-end data analytics project built on real, unprocessed Airbnb listing data across four global cities — New York, London, Paris, and Barcelona. Covers the full pipeline: data sourcing, Python-based cleaning, a layered MySQL ETL pipeline, and a 3-page interactive Power BI dashboard.
-
-**~216,000 listings | ~78 million calendar records | 4 cities | $2.73B+ estimated market revenue analyzed**
-
----
-
 # 🌍 Global Airbnb Market Analytics — SQL + Power BI
 
 ## 📖 Project Overview
@@ -24,6 +16,8 @@ Throughout the project, emphasis was placed on building a realistic analytics wo
 - ~78 million calendar records
 - 4 global cities
 - ~$2.73B estimated market revenue analyzed
+
+--
 
 ## 📊 Dashboard Preview
 
