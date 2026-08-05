@@ -4,7 +4,7 @@
 
 This project is an end-to-end data analytics solution built on real, unprocessed Airbnb listing data from four major global cities—**New York, London, Paris, and Barcelona**. The objective was to transform large-scale, messy public datasets into an interactive business intelligence dashboard capable of answering meaningful market and host performance questions.
 
-Unlike many portfolio projects that begin with cleaned datasets, this project starts with raw CSV exports containing inconsistent formatting, mixed data types, and millions of calendar records. The complete analytics pipeline was designed from scratch, covering data validation in Python, a layered ETL process in MySQL, analytical SQL views, star-schema modeling, DAX calculations, and a three-page Power BI dashboard.
+Unlike many portfolio projects that begin with cleaned datasets, this project starts with raw CSV exports containing inconsistent formatting, mixed data types, and millions of calendar records. The complete analytics pipeline was designed from scratch, covering data cleaning in Python, a layered ETL process in MySQL, analytical SQL views, star-schema modeling, DAX calculations, and a three-page Power BI dashboard.
 
 The final report enables users to compare city-level performance, understand the drivers behind pricing and occupancy differences, identify high-performing neighbourhoods and listings, and evaluate whether factors such as Superhost status and host experience are actually associated with better business outcomes.
 
@@ -14,7 +14,7 @@ Throughout the project, emphasis was placed on building a realistic analytics wo
 
 - ~216,000 Airbnb listings
 - ~78 million calendar records
-- 4 global cities
+-  4 global cities
 - ~$2.73B estimated market revenue analyzed
 
 --
