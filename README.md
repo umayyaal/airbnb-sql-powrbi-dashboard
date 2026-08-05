@@ -14,7 +14,7 @@ Throughout the project, emphasis was placed on building a realistic analytics wo
 
 - ~216,000 Airbnb listings
 - ~78 million calendar records
--  4 global cities
+- ~4 global cities
 - ~$2.73B estimated market revenue analyzed
   
 ## 📑 Table of Contents
