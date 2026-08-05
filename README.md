@@ -17,20 +17,18 @@ Throughout the project, emphasis was placed on building a realistic analytics wo
 -  4 global cities
 - ~$2.73B estimated market revenue analyzed
   
-## Table of Contents
+## 📑 Table of Contents
 
-- Project Overview
-- Dashboard Preview
-- Project Story
-- Key Business Insights
-- Architecture
-- Tech Stack
-- Repository Structure
-- Notable Problems Solved
-- Data Limitations
-- How to Run
-- Future Improvements
-- About
+- [Project Overview](#project-overview)
+- [Dashboard Preview](#dashboard-preview)
+- [Project Story](#project-story)
+- [Key Business Insights](#key-business-insights)
+- [Architecture](#architecture)
+- [Tech Stack](#tech-stack)
+- [Repository Structure](#repository-structure)
+- [Notable Problems Solved](#notable-problems-solved)
+- [Data Limitations](#data-limitations)
+- [About](#about)
   
 ## 📊 Dashboard Preview
 
