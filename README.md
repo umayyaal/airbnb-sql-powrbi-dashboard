@@ -55,7 +55,7 @@ The dashboard is built around one central question, unpacked across three pages:
 2. **Market Deep Dive** — Why? What's driving those differences underneath the headline numbers?
 3. **Host & Performance** — Who's actually winning, and does conventional wisdom about "good hosting" hold up?
 
-Full narrative writeup connecting all three pages: [`docs/powerbi_storyline.md`](docs/powerbi_storyline.md)
+Full narrative writeup connecting all three pages: [`docs/powerbi_storyline.md`](docs/powrbi_analysis.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ Full narrative writeup connecting all three pages: [`docs/powerbi_storyline.md`]
 - **Superhosts show * slight lower* occupancy than non-superhosts** (52.24% vs. 56.83%) at nearly identical price points — a counterintuitive finding that challenges the assumption that Airbnb's own quality badge predicts stronger demand.
 - **Host experience shows a non-linear relationship with performance** — Average prices remain fairly consistent across all host experience groups (approximately $276–$295 per night), while occupancy varies much more, peaking among hosts with 6–10 years of experience. This indicates that host experience is more closely associated with occupancy than with pricing, although other factors may also influence this relationship.
 
-*(Full findings, caveats, and business framing for each page are documented in [`docs/powerbi_storyline.md`](docs/powerbi_storyline.md))*
+*(Full findings, caveats, and business framing for each page are documented in [`docs/powerbi_storyline.md`](docs/powrbi_analysis.pdf))*
 
 ---
 
@@ -135,7 +135,7 @@ Power BI Desktop
 
 ## 🐛 Notable Problems Solved
 
-A few of the more substantial issues encountered and resolved during this build — full detail in [`docs/project_summary.md`](docs/project_summary.md):
+A few of the more substantial issues encountered and resolved during this build — full detail in [`docs/project_summary.md`](docs/project_summary.pdf):
 
 - **Malformed CSV rows** from inconsistent quote-escaping in the source data, fixed with a Python re-validation/re-escaping pass before import.
 - **A 12-hour unindexed `UPDATE`** on a 34-million-row table, resolved by moving value assignment inline into the `LOAD DATA INFILE` step and adding indexes on frequently-filtered columns.
