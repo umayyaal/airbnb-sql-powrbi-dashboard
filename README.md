@@ -38,10 +38,10 @@ Throughout the project, emphasis was placed on building a realistic analytics wo
 ![Overview page](images/01_overview_page.JPG)
 
 ### Page 2 — Market Deep Dive (Pricing & Segmentation)
-![Market Deep Dive page](images\02_market_deep_dive_page.JPG)
+![Market Deep Dive page](images/02_market_deep_dive_page.JPG)
 
 ### Page 3 — Host & Performance Analysis
-![Host and Performance page](images\03_host_performance_page.JPG)
+![Host and Performance page](images/03_host_performance_page.JPG)
 
 ---
 
